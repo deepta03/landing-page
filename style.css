@@ -88,6 +88,11 @@ a{
    
 }
 
+.first-button:active{
+
+    border: 1px solid #1F2937;
+}
+
 .header-part-one{
 
     height: 300px;
@@ -215,6 +220,11 @@ a{
     border-radius: 5px;
     
 
+}
+
+.second-button:active{
+
+    border: 2px solid #3882F6;
 }
 
 
